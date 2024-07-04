@@ -1,11 +1,11 @@
 #
-# 此文件包含用于自定义您的网站的配置标志
+#此文件包含用于自定义的配置标志
 #
 
 # 名称（显示标题中）
 名称：“lemon的博客”
-#详细的个人简介或描述（不符合标题中）
-描述："     111  "
+#详细个人简介或描述（来自标题中）
+描述：“ 111 ”
 
 #
 以下标志是可选的
@@ -14,7 +14,7 @@
 # 你的头像或个人资料的 URL（你可以使用你的 GitHub 个人资料）
 头像：https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png
 # 你的favicon（上述浏览器标签上）图片URL，建议使用较小(64px × 64px)的图片
-favicon ：网站主题：https  : //github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico网站 //github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
+favicon ：网站主题：https   : //github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico网站 //github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
 
 #标题中的标签。有“博客”、“关于”、“记载”、“标签”
 # 和 URL 链接（例如下面的“主题”选项卡）选项卡。如果您不需要，只需删除
@@ -23,7 +23,7 @@ favicon ：网站主题：https  : //github.com/lemonchann/lemonchann.github.io/
 -名称： 首页
     网址:     网址：/
   -名称： - 名称：关于
-    url   :     网址：/关于
+    url    :     网址：/关于
   -名称： - 名称：归档
     网址 :     网址：/
   -名称： - 名称：标签
@@ -32,7 +32,7 @@ favicon ：网站主题：https  : //github.com/lemonchann/lemonchann.github.io/
 #分页
 页码：8
 
-摘录分隔符：摘录分隔符：<!-- 更多 -->
+摘录抑符：摘录抑符：<!-- 更多 -->
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID:   客户ID: bd65d5c0df878155b7fa
+  clientSecret:   客户端机密：d0220762c05c2d6b6f6152a0f0e4b6b090de9729
   repo: lemonchann.github.io
   owner: lemonchann
 
